@@ -1,2 +1,2 @@
-# CodeCopy-Plugins
-Official repository of CodeCopy-Plugins
+# Stickode-Plugins
+Official repository of Stickode-Plugins
