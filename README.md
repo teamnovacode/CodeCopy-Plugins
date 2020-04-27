@@ -17,7 +17,7 @@ This is code auto-completion plugins can using in the Intellj and Visual Studio 
 # 사용법 How to use it?
 **1. `stickode` 를 입력하면 스틱코드에서 제공하는 기본 코드들을 볼 수 있습니다.**
 
-    Type `stickode` and you can see all codes provided by stickode.
+   <p> Type `stickode` and you can see all codes provided by stickode.</p>
 
 
 ![screenshot](https://github.com/teamnovacode/Stickode-Plugins/blob/master/img/completion_stickode.gif)
@@ -27,7 +27,7 @@ This is code auto-completion plugins can using in the Intellj and Visual Studio 
 
 **2. 사용할 코드의 제목을 입력하면 해당 코드를 불러올 수 있습니다.**
    
-    Type the codename to load.
+<p>    Type the codename to load.</p>
    
 ![screenshot](https://github.com/teamnovacode/Stickode-Plugins/blob/master/img/stickode_tutorial.gif)
 
@@ -36,12 +36,12 @@ This is code auto-completion plugins can using in the Intellj and Visual Studio 
 
 **3. 작성한 코드를 업로드하여 플러그인이 설치된 환경 어디서든 불러올 수 있습니다.**
 
-    (해당 기능은 스틱코드(https://stickode.com)에 가입 후 사용가능합니다.)
+<p>     (해당 기능은 스틱코드(https://stickode.com)에 가입 후 사용가능합니다.)</p>
   
 
-    Upload the code and load it anywhere the stickode is installed. 
+ <p>    Upload the code and load it anywhere the stickode is installed. </p>
    
-    (This function can used after signing up to stickode.)
+ <p>    (This function can used after signing up to stickode.) </p>
    
 ![screenshot](https://github.com/teamnovacode/Stickode-Plugins/blob/master/img/upload.gif)
 
