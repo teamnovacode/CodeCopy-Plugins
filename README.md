@@ -56,7 +56,7 @@ This is code auto-completion plugins can using in the Intellj and Visual Studio 
 
 **더 많은 언어가 지속적으로 추가될 예정입니다.**
 
-# 다운로드 Downloads
+# 다운로드 Download
 
 **Intellij Marketplace:** https://plugins.jetbrains.com/plugin/13439-stickode
 
